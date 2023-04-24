@@ -1,6 +1,6 @@
-#Technology Used
+# Technology Used
 We will be using HTML, CSS and JavaScript to design the website to host the games.
-#Games to test the soft skills
+# Games to test the soft skills
 Problem Statement :
 Design an interactive puzzle that can be solved on an online website.
 The aim of the puzzle is to assess soft skills of the user such as perseverance, eye for detail etc.
@@ -23,7 +23,7 @@ The last and final puzzle is social memory game. The user has to remember the po
 Clues : The user has to find the similar objects in order to move ahead 
 DeadEnd : If the user doesn’t get the similar objects . The games reloads and the user goes back to the previous step.
 Solution : The user uncovers all the similar objects until no block is left .
-#Technologies used for backend
+# Technologies used for backend
 In order to store data . We will collect user id , email and password from the user to sign them up to be able to play this game which will we be stored in the MongoDB cluster hosted publicly . 
 From the collected data we will display the user dashboard , user leaderboard and the time they spent completing this game from which we can judge their time management and thinking skills .
 For storing data we will be using MongoDB and Mongoose to form connection and sone APIs of NextJS
